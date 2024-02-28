@@ -9,4 +9,4 @@ JavaScript
 Instructions:
 Clone the repository to your local machine.
 Open the index.html file in a web browser to access the Movie Ticket Booking App.
-Explore movie options, select seats, and complete
+Explore movie options, select seats, and complete.
